@@ -3,13 +3,13 @@
 - company: Hua's Lab @ UC, Riverside
   position: Research Assistant
   duration: Dec. 2024 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Utilized a secure communication protocol to enhance secrecy rates between two users in multi-carrier systems i.e., orthogonal frequency division multiplexing.</li><li>Optimized pairing and power scheduling policies of carriers to obtain better secrecy rates than baseline methods.</li></ul>
 
 # Director of Digital Stratgy
 - company: Research Institute of Communication Engineering @ National Chung Cheng University
   position: Research Intern
   duration:  Jul. 2024 &mdash; Dec. 2024
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Proposed a transformer-based DML approach for DLCE in RIS-aided 6G networks, using a custom self-attention mechanism to capture complex channel correlations.</li><li>Improved channel estimation accuracy, achieving significant gains in convergence, loss, and normalized mean square error compared to other models.</li></ul>
 
 
 # Communications Coordinator
