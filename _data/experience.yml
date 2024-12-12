@@ -16,5 +16,4 @@
 - company: Information Processing and Transmission Lab @ NUST
   position: Research Assistant
   duration:   May. 2023  &mdash; Dec. 2023
-  awards: 
-  - award: Worked on improving 5G and 6G wireless networks using intelligent reflective surfaces (IRS), comparing real-world and ideal setups to find the most energy-efficient solutions.
+  summary: <ul class="resume-item-list"><li>Worked on improving 5G and 6G wireless networks using intelligent reflective surfaces (IRS), comparing real-world and ideal setups to find the most energy-efficient solutions.</li><li>Analyzed various system parameters to determine the limits of an IRS in ensuring good network performance.</li><li>Explored utilization of additional IRS to increase network performance in 5G and 6G systems while maintaining energy-efficient operations.</li></ul>
