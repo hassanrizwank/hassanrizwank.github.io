@@ -4,10 +4,10 @@
   year: 2020 &mdash; 2024
   # awards:
    # - award: Summa Cumme Laude graduate
-  summary: Specialization in Wireless Communications
+  summary: Focus on Communication Systems
 
 - degree: Cambridge International A Level
   uni: LACAS
   year: 2018 &mdash; 2020
-  award: Studied Engineering and Economics
-#  summary: You can choose to have either a single or multiple awards
+  # award: Write
+  summary: Studied Engineering and Economics
