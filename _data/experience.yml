@@ -9,7 +9,7 @@
 - company: Research Institute of Communication Engineering @ National Chung Cheng University
   position: Research Intern
   duration:  Jul. 2024 &mdash; Dec. 2024
-  summary: <ul class="resume-item-list"><li>Proposed a transformer-based DML approach for DLCE in RIS-aided 6G networks, using a custom self-attention mechanism to capture complex channel correlations.</li><li>Improved channel estimation accuracy, achieving significant gains in convergence, loss, and normalized mean square error compared to other models.</li></ul>
+  summary: Project 1. <ul class="resume-item-list"><li>Proposed a transformer-based distributed machine learning approach for channel estimation in IRS-aided 6G networks, using a custom self-attention mechanism to capture complex channel correlations.</li><li>Improved channel estimation accuracy, achieving significant gains in convergence, loss, and normalized mean square error compared to other models.</li></ul> Project 2. <ul class="resume-item-list"><li>Explored active reconfigurable intelligent surfaces in terrestrial and non-terrestrial networks utilizing shared access for enhanced signal performance.</li><li>Optimized terresterial and non-terresterial parameters to improve network performance.</li></ul>
 
 
 # Communications Coordinator
