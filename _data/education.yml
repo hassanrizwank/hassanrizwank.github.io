@@ -1,10 +1,18 @@
 # Degree
+
+- degree: University of California, Riverside
+  uni: Ph.D. in Electrical Engineering
+  year: Jan. 2025 &mdash; Present
+  summary: Supervisor - Dr. Yingbo Hua
+  summary: Specialization - Physical Layer Security
+  
+  
 - degree: National University of Sciences and Technology
   uni: Bachelor of Electrical Engineering
   year: Oct. 2020 &mdash; Jul. 2024
   # awards:
    # - award: Summa Cumme Laude graduate
-  summary: Focus on Communication Systems
+  summary: Focus on Wireless Communication
 
 - degree: LACAS
   uni: Cambridge International A Level
