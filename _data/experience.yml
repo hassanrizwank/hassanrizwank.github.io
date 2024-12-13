@@ -5,6 +5,11 @@
   duration: Dec. 2024 &mdash; Present
   summary: <ul class="resume-item-list"><li>Utilized a secure communication protocol to enhance secrecy rates between two users in multi-carrier systems i.e., orthogonal frequency division multiplexing.</li><li>Optimized pairing and power scheduling policies of carriers to obtain better secrecy rates than baseline methods.</li></ul>
 
+- company: John Cioffi Wireless Group @ Stanford
+  position: Researcher
+  duration: Aug. 2024 &mdash; Dec. 2024
+  summary: <ul class="resume-item-list"><li>Developed a hierarchical deep reinforcement learning framework for efficient spectrum allocation across integrated terrestrial and non-terrestrial networks, enabling dynamic and adaptive management of spectrum resources based on regional user demands and network characteristics.</li><li>Demonstrated the framework's ability to achieve near-optimal spectral efficiency and higher throughput while being significantly faster than traditional multi-agent and exhaustive search algorithms, addressing the diverse connectivity requirements of future 6G ecosystems.</li></ul>
+
 # Director of Digital Stratgy
 - company: Research Institute of Communication Engineering @ National Chung Cheng University
   position: Research Intern
